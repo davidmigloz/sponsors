@@ -10,13 +10,8 @@ export default defineConfig({
       preset: presets.xs,
     },
     {
-      title: 'Backers',
-      preset: presets.base,
-    },
-    {
       title: 'Sponsors',
-      monthlyDollars: 5,
-      preset: presets.medium,
+      preset: presets.base,
     },
     {
       title: 'Silver Sponsors',
