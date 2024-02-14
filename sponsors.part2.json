@@ -1,6 +1,25 @@
 [
   {
     "sponsor": {
+      "login": "fidel-at-henfi",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/156161138?v=4",
+      "websiteUrl": null,
+      "linkUrl": "https://github.com/fidel-at-henfi",
+      "type": "User",
+      "avatarUrlHighRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAASFBMVEVMaXHw8PDw8PDw8PDA1eHu7/Dx8fDS3+fw8PDw8PDt7+90rMtyq8t0rMu20N50rMvw8PBwqsry8fHn6+19sc7v8PDM3OX49PLwKXCrAAAAD3RSTlMAreN2Gk+aN8bwY+nDeMo1MYEuAAAACXBIWXMAAAsTAAALEwEAmpwYAAADMUlEQVR42uWb65arIAyFBZWL2mXaDu37v+lxOmptDQgI4cfZD8C3CBsIEKoqWLKthVJcawCtuVKibmWVWbJm3AAiw1mXi950jINTE7xJjm2ZAQ8Z1SWNsNDgLS1SxVwyCJRqU8RYQYROo2UU9oU+E/BGYI66IcLQItriHWopc0eEWl7Xcd1Fo2xu95+9xscTRauITrf4DPoFX781Xi1g0MEmqy3rxQs8fssKnkY6QZijwEHhlvZFORwM3HtiSccCGQEGLU/ZKh7sabHOuQ1FgcF4kFv39hcH9iDLgw0wEnw4zkfcaPABueGQCwzcNZ+PN8F4MCg7V0BOsH31bCEvGCzWbnRusG4iB/gsGB/mDvKDocMC7ZVL/YJHPzDWHhJs4ZdLTeDxuhcCxtvbOVt651Lmgeh+M/vIoO19L2DKP5d6Ivrm2nMz9b0n+ZvGYPI34edkVifdGuB+9blm0YFBfqwdhOBNlyVQgjddFrTg91zWtGC93Q4pwev2yKjBbN4eDDXYNO/9kBQ8746MHvwXa04P1vPqQQ5+rSF1CXC9DDE1mC1DTA3mE9iUAJvFW9TgyV1tGXA7m5ocXC8nRGqwWE5M1GBVDszLgHmly4B1ObApAzblwGVCfSs4xsWm0/+3chXbJIpti5tEYEwMHp2JwDv18by/8gY725NLsud7fxWAdrVn1vQWPO+vAuRqj68JPXjeX4V02dEeW48wxKrXQxuxZLUdZDrp98GcVizgaj6puvflC6nmyxf6WLOA96akajdXivSe9nzaSymxvTYmXz0CHtlSW4vcXjL4XTGNVPALbuq5tHb5RqD9g6o06Ftgahmzq1EQ2Ftgao0PgRRE/Fxza0pvkTfzDknAU+uKVgkM+cEDXpzQ5+b2lhoUmRtsrbq55OVe7KUvA/0A5x/m3lk0mI/cHxQrylzkw4JBWYibydoXr7LMvkR/czis9y5FTUvuA4pvm4QryRBWY53MYpcqUGks1keU8DfD+ZRjiKvfbx8nFf09pRHPE2JnfuRIZSKlzv6IkWW+pLzQZT7hvNBlvh39ObzIR6s/i3fsoN86x9eyOeaOz3R1/q98Sb4P/gMfwdBGkuuuXwAAAABJRU5ErkJggg==",
+      "avatarUrlMediumRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAWlBMVEVMaXHw8PDw8PDw8PDQ3ubO3ebw8PDl6+7x8fHx8fF0rMtrqMm1z952rcx2rcx0rMvw8PBwqsrv8PDz8vH49fOAss/u7+9qp8h2rcywzd3X4ujG2uSIt9Gew9gI5qvrAAAAD3RSTlMAbdC5CRuV/uNJ01CwkIja/JpbAAAACXBIWXMAAAsTAAALEwEAmpwYAAACbUlEQVR42s2Z2xajIAxFBRXBtgNVi/Yy//+bY70SBIuYhznv7JUQCElIkn3lgrCUcq415zRlRORJvDLBqNqIMpFF4QQrlEcFE4eNI1ztipMsFlcBRSEFsK5uTAErwxzPU+Bb/Xqbgo6n+VHzVNX8be+L2kdtheeXkRmzNr8H3js5qbt/ajs6bHcn8825+1ooFzmAu25veQFARb3E3HH2AoCK5+G8IKCH6PA3FOj0OnPyAoGKbmPN1BmgYpvzrM4BlbAD4s4A+0BziRWYtDYVCgSLUuCwLkxpCzhfZdkCYAUXGU5n/N09DL1qw+viZcrA1cXHWNM9+Rpp0ryNlHJvX03lyYc1AD7WNbJ9NmQ1sHmvKaXPKcBCDQSBck1EPXAxkegeKI2tBxb6NFgoTaCeTeRYQD6faSzgdLoZHpCNIcEDFtl4i9GAg88ME/j1mWICaZ9nFCawyodEiAfsN5HgAsmQ+hGBLElxgek3yJhAmnBcIMcHalygxgf+/3uIfmzQD/Z09fzv8i4QvMvj1ZuSw+OzClYOO8CPuWhODsJR96hAORaJIcHiqU+wCcUEUn8tHCe2UwxHSYwPPZrG+ovheozq81QVo/nM54ITC0iWktgeVURJrVU7sW5RlFYDvybCPiVK2mgrEgH7lBh1T9DtXc18GCPZXmHzaPQpUepaqwe/yJPAi90w384Bb9sRQXmGVzrGQWeIpXO8lMcSu9I3uIkklv7RUonLi9vHcn/Q+ac7qNuvwemlPaRLwMj0+gzWNWxMLngTJB48zc4I1z91YpLtfI/I4fm9YF4mPz66Xz4XNoViFf25MMX86PfHPzZVR8B0aFkoAAAAAElFTkSuQmCC",
+      "avatarUrlLowRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAASFBMVEVMaXHx8fHw8PB0rcvx8PDw8PDw8PDq7e/v8PDv8PBwqsqIt9FsqMl0rMvx8PDv8PBuqcn39PKzz96Ht9F3rsykx9rJ2+XX4+nh6baaAAAADXRSTlMAMHy+uNld/Buallf1U6TFRAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAXZJREFUeNq9lluShCAMAH1BQAvQ0ZH733QVguIDJfOx7R+VlhAxUBQXBJcNA2OANZKL4hVRMXOAVc9WKc0NTZme4VZwUmImDhig7YjYAYeA3xn7FIPt+14tTz8P26C8Gs2ehrYKiZRLciIydiWexejmPId+U07OsVQJ5bAebk7K5FEnxWx1EzB4dFQxR1A0BkAogfwgs3c0fBGLAzZEYGqlGfGl3/DSDZz2gwETlFitsZ+WxU6bcmZRXIAawVVNmEVROYrqR9DraiqaUi0KoynM5UVSjHCfkaRwt1dIinSbnqQ06+ppCiuAqkBh/kX5IbEflo9Fdm3oQfEBvsjrp7Szx+p7RYeA2TWAdcMMgVSD1VEAd9uShHCbnwLzvxiFyv/IxLwODfwdiU1pyMbggSbnTy6hK4vQ+l6ZtjOmU1MWqttbf6uyaOMDps4x6uMxVpONDKe+HsktYR1b3cYHutSFBBJI8XDt0Tc8XHt+ulzFVzhIXeH+AF6/dFcLPh64AAAAAElFTkSuQmCC"
+    },
+    "isOneTime": false,
+    "monthlyDollars": 20,
+    "privacyLevel": "PUBLIC",
+    "tierName": "$20 a month",
+    "createdAt": "2024-02-14T17:02:50Z",
+    "provider": "github"
+  },
+  {
+    "sponsor": {
       "login": "BrutalCoding",
       "name": "Daniel Breedeveld",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5500332?u=34c1a1f6ff9c6607839dd961cbed2e41d55befd6&v=4",
